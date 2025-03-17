@@ -70,22 +70,22 @@ msgstr "Zmień tytuł…"
 #: src/apprt/gtk/ui/1.0/menu-surface-context_menu.blp:38
 #: src/apprt/gtk/ui/1.0/menu-window-titlebar_menu.blp:50
 msgid "Split Up"
-msgstr ""
+msgstr "Podziel w górę"
 
 #: src/apprt/gtk/ui/1.0/menu-surface-context_menu.blp:43
 #: src/apprt/gtk/ui/1.0/menu-window-titlebar_menu.blp:55
 msgid "Split Down"
-msgstr ""
+msgstr "Podziel w dół"
 
 #: src/apprt/gtk/ui/1.0/menu-surface-context_menu.blp:48
 #: src/apprt/gtk/ui/1.0/menu-window-titlebar_menu.blp:60
 msgid "Split Left"
-msgstr ""
+msgstr "Podziel w lewo"
 
 #: src/apprt/gtk/ui/1.0/menu-surface-context_menu.blp:53
 #: src/apprt/gtk/ui/1.0/menu-window-titlebar_menu.blp:65
 msgid "Split Right"
-msgstr ""
+msgstr "Podziel w prawo"
 
 #: src/apprt/gtk/ui/1.0/menu-surface-context_menu.blp:59
 msgid "Tab"
@@ -153,6 +153,8 @@ msgid ""
 "An application is attempting to read from the clipboard. The current "
 "clipboard contents are shown below."
 msgstr ""
+"Aplikacja próbuje czytać zawartość schowka. Zawartość schowka "
+"pokazana poniżej."
 
 #: src/apprt/gtk/ui/1.5/ccw-osc-52-read.blp:10
 #: src/apprt/gtk/ui/1.5/ccw-osc-52-write.blp:10
@@ -169,16 +171,20 @@ msgid ""
 "An application is attempting to write to the clipboard. The current "
 "clipboard contents are shown below."
 msgstr ""
+"Aplikacja próbuje wpisać do schowka. Obecna zawartość schowka pokazana "
+"poniżej."
 
 #: src/apprt/gtk/ui/1.5/ccw-paste.blp:6
 msgid "Warning: Potentially Unsafe Paste"
-msgstr ""
+msgstr "Uwaga: potencjalnie niebezpieczne wklejenie ze schowka"
 
 #: src/apprt/gtk/ui/1.5/ccw-paste.blp:7
 msgid ""
 "Pasting this text into the terminal may be dangerous as it looks like some "
 "commands may be executed."
 msgstr ""
+"Wklejenie tego tekstu do terminala może być niebezpieczne, ponieważ możliwe, "
+"że pewne komendy zostałyby wykonane."
 
 #: src/apprt/gtk/Window.zig:199
 msgid "Main Menu"
@@ -192,6 +198,7 @@ msgstr "Zobacz otwarte karty"
 msgid ""
 "⚠️ You're running a debug build of Ghostty! Performance will be degraded."
 msgstr ""
+"⚠️ Używasz wersji Ghostty do debugowania! Wydajność będzie obniżona."
 
 #: src/apprt/gtk/Window.zig:681
 msgid "Reloaded the configuration"
