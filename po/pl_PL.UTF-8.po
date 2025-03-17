@@ -25,7 +25,7 @@ msgstr "Zmień tytuł terminala"
 
 #: src/apprt/gtk/ui/1.5/prompt-title-dialog.blp:6
 msgid "Leave blank to restore the default title."
-msgstr "Pozostaw puste by przywrócić domyślny tytuł"
+msgstr "Pozostaw puste by przywrócić domyślny tytuł."
 
 #: src/apprt/gtk/ui/1.5/prompt-title-dialog.blp:9
 #: src/apprt/gtk/ui/1.5/ccw-paste.blp:10 src/apprt/gtk/CloseDialog.zig:44
@@ -65,7 +65,7 @@ msgstr "Podział"
 #: src/apprt/gtk/ui/1.0/menu-surface-context_menu.blp:33
 #: src/apprt/gtk/ui/1.0/menu-window-titlebar_menu.blp:45
 msgid "Change Title…"
-msgstr "Zmień tytuł"
+msgstr "Zmień tytuł…"
 
 #: src/apprt/gtk/ui/1.0/menu-surface-context_menu.blp:38
 #: src/apprt/gtk/ui/1.0/menu-window-titlebar_menu.blp:50
@@ -223,19 +223,19 @@ msgstr "Zamknąć podział?"
 
 #: src/apprt/gtk/CloseDialog.zig:96
 msgid "All terminal sessions will be terminated."
-msgstr "Wszystkie sesje terminala zostaną zakończone"
+msgstr "Wszystkie sesje terminala zostaną zakończone."
 
 #: src/apprt/gtk/CloseDialog.zig:97
 msgid "All terminal sessions in this window will be terminated."
-msgstr "Wszystkie sesje terminala w obecnym oknie zostaną zakończone"
+msgstr "Wszystkie sesje terminala w obecnym oknie zostaną zakończone."
 
 #: src/apprt/gtk/CloseDialog.zig:98
 msgid "All terminal sessions in this tab will be terminated."
-msgstr "Wszystkie sesje terminala w obecnej karcie zostaną zakończone"
+msgstr "Wszystkie sesje terminala w obecnej karcie zostaną zakończone."
 
 #: src/apprt/gtk/CloseDialog.zig:99
 msgid "The currently running process in this split will be terminated."
-msgstr "Wszyskie trwające procesy w obecnym podziale zostaną zakończone"
+msgstr "Wszyskie trwające procesy w obecnym podziale zostaną zakończone."
 
 #: src/apprt/gtk/Surface.zig:1128
 msgid "Copied to clipboard"
