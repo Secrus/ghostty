@@ -153,7 +153,7 @@ msgid ""
 "An application is attempting to read from the clipboard. The current "
 "clipboard contents are shown below."
 msgstr ""
-"Aplikacja próbuje czytać zawartość schowka. Zawartość schowka "
+"Aplikacja próbuje odczytać zawartość schowka. Zawartość schowka "
 "pokazana poniżej."
 
 #: src/apprt/gtk/ui/1.5/ccw-osc-52-read.blp:10
