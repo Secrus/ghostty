@@ -183,8 +183,8 @@ msgid ""
 "Pasting this text into the terminal may be dangerous as it looks like some "
 "commands may be executed."
 msgstr ""
-"Wklejenie tego tekstu do terminala może być niebezpieczne, ponieważ możliwe, "
-"że pewne komendy zostałyby wykonane."
+"Wklejenie tego tekstu do terminala może być niebezpieczne, ponieważ może "
+"spowodować wykonanie komend."
 
 #: src/apprt/gtk/Window.zig:199
 msgid "Main Menu"
